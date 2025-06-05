@@ -1,3 +1,5 @@
+> Join the waitlist for [NeuralVox](https://forms.gle/HA4dvRB9nz2G1s2LA) - full-cast AI audiobooks!
+
 # NeuralVox Chatterbox (WIP)
 
 Very experimental script to generate audioplay from a script.
